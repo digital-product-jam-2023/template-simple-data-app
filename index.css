@@ -10,22 +10,3 @@ body {
 #main {
   margin: 0 auto;
 }
-
-#cat {
-  padding: 1rem 0 1rem 0;
-}
-
-#contact button {
-  cursor: pointer;
-}
-
-#cat img {
-  transition: 3s;
-  filter: brightness(60%);
-}
-
-#cat img:hover {
-  cursor: wait;
-  transition: 0.3s;
-  filter: brightness(100%);
-}
